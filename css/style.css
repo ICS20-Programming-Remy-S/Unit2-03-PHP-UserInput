@@ -1,0 +1,47 @@
+/* Created by: MariaG
+ * Modified by: Ms Raffin
+ * Created on: March 2022
+ * This CSS file defines the style for index.php
+ * ICS2O-Unit2-03-PHP-UserInput
+*/
+
+form {
+  background-color: #94ff66;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h1 {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 5%;
+  background-color: #0055ff;
+  text-align: center;
+  padding: 20px;
+}
+
+h3 {
+  width: 80%;
+  margin-left: 10%;
+}
+
+p {
+  width: 80%;
+  margin-left: 10%;
+}
+
+iframe {
+  width: 80%;
+  margin-top: 30px;
+  margin-bottom: 5%;
+  background-color: #ff6161;
+}
+
+#yellow {
+  background-color: #d152ff;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 30px;
+}
